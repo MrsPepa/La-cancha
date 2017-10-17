@@ -1,0 +1,55 @@
+.cesped{
+	width: 1000px;
+	height: 499px;
+	background-color: #8CB27C;
+	position: relative;
+	border: 1px solid #fff;
+	padding: 25px;
+	box-sizing: border-box;
+}
+.cancha{
+	border: 4px solid #fff;
+	height: 100%;
+	position: relative;
+}
+.arco{
+	border: 4px solid #fff;
+	width: 120px;
+	height: 197px;
+	top: 120px;
+}
+.left{
+	position: relative;
+	left: -1px;
+}
+.right{
+	position: absolute;
+	right: -1px;
+}
+.circulo{
+	border: 3px solid #fff;
+	width: 200px;
+	height: 200px;
+	background: #8CB27C;
+	border-radius: 100%;
+	left: 38%;
+	top: 120px;
+	position: absolute;
+	-moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+.ball1{
+	position: absolute;
+	top: 110px;
+	left: 110px;
+}
+.ball2{
+	position: absolute;
+	top: 60px;
+	left: 470px;
+}
+.ball3{
+	top: 250px;
+	left: 780px;
+	position: absolute;
+}
